@@ -1,3 +1,5 @@
+# https://app.patika.dev/courses/react/odev3 Kapsamında geliştirildi. https://www.patika.dev/tr
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
